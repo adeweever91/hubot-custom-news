@@ -8,6 +8,7 @@ Retrieves top local news from Nashville media outlet RSS feeds.
 - [WSMV](http://www.wsmv.com/) (NBC)
 - [WKRN](http://wkrn.com/) (ABC)
 - [WTVF](http://www.newschannel5.com/) (CBS)
+- [Patch Nashville](https://patch.com/tennessee/nashville)
 
 These sources do not have linked RSS feeds, so they are not included:
 
