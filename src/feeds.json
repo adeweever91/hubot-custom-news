@@ -1,13 +1,13 @@
 [
   {
-    "short_name": "The Register DevOps",
-    "name": "Devops News",
-    "rss_url": "https://www.theregister.co.uk/devops/headlines.atom"
+    "short_name": "DevOps.com",
+    "name": "Devops.com",
+    "rss_url": "http://devops.com/feed/"
   },
   {
-    "short_name": "The Register Security",
-    "name": "Security News",
-    "rss_url": "https://www.theregister.co.uk/security/headlines.atom"
+    "short_name": "DZone",
+    "name": "DZone.com",
+    "rss_url": "http://feeds.dzone.com/home"
   },
   {
     "short_name": "Solar",
