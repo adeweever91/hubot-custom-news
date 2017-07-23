@@ -1,5 +1,5 @@
 # Description
-#   Retrieves top local news from Nashville media outlet RSS feeds.
+#   Retrieves news from custom RSS feeds.
 #
 # Commands:
 #   hubot news - returns the latest Nashville news
@@ -20,7 +20,7 @@ module.exports = (robot) ->
   isSlack = robot.adapterName == 'slack'
 
   robot.respond /news$/i, (msg) ->
-    msg.send 'Retrieving news (this may take a bit) ...'
+    msg.send 'Retrieving news...'
     promises = getAllFeeds(msg)
     Promise.all(promises).then (storyLists) ->
       for storyList in storyLists
@@ -36,6 +36,7 @@ module.exports = (robot) ->
     return new Promise (resolve, reject) ->
       robot.http(feed.rss_url).get() (err, res, body) ->
         if err
+	  msg.send err
           reject("Unable to retrieve feed for #{feed.name}. :cry:")
           return
 
