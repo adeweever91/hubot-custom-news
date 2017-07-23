@@ -2,11 +2,11 @@
   {
     "short_name": "Google",
     "name": "Google News",
-    "rss_url": "https://news.google.us/?output=rss"
+    "rss_url": "https://news.google.com/?output=rss"
   },
   {
     "short_name": "Solar",
     "name": "Solar News",
-    "rss_url": "http://feeds.feedburner.com/SolarEnergyrssFeed?format=xml"
+    "rss_url": "http://solar.energy-business-review.com/rss"
   }
 ]
