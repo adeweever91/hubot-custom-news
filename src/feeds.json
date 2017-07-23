@@ -10,8 +10,13 @@
     "rss_url": "http://feeds.dzone.com/home"
   },
   {
+    "short_name": "Security",
+    "name": "Threatpost.com",
+    "rss_url": "https://threatpost.com/feed/"
+  },
+  {
     "short_name": "Solar",
-    "name": "Solar News",
+    "name": "Solar.energy-business-review.com",
     "rss_url": "http://solar.energy-business-review.com/rss"
   }
 ]

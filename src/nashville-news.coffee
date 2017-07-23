@@ -13,14 +13,14 @@ fs = require 'fs'
 
 # Configure the RSS feeds
 rssFeeds = require './feeds.json'
-storyCount = process.env.HUBOT_NEWS_ITEM_COUNT || 3
+storyCount = process.env.HUBOT_NEWS_ITEM_COUNT || 5
 
 module.exports = (robot) ->
   # Use enhanced formatting?
   isSlack = robot.adapterName == 'slack'
 
   robot.respond /news$/i, (msg) ->
-    msg.send 'Retrieving local news (this may take a bit) ...'
+    msg.send 'Retrieving news (this may take a bit) ...'
     promises = getAllFeeds(msg)
     Promise.all(promises).then (storyLists) ->
       for storyList in storyLists
