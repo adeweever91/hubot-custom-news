@@ -5,18 +5,18 @@
     "rss_url": "http://devops.com/feed/"
   },
   {
-    "short_name": "Wired.com",
-    "name": "Wired.com Security",
-    "rss_url": "https://www.wired.com/feed/category/security/latest/rss"
+    "short_name": "DZone",
+    "name": "DZone.com",
+    "rss_url": "http://feeds.dzone.com/home"
   },
   {
-    "short_name": "Hacker News",
-    "name": "Hackernews.com",
-    "rss_url": "http://feeds.feedburner.com/TheHackersNews"
+    "short_name": "Security",
+    "name": "Threatpost.com",
+    "rss_url": "https://threatpost.com/feed/"
   },
   {
     "short_name": "Solar",
-    "name": "Solarfeeds.com",
-    "rss_url": "http://www.solarfeeds.com/feed/"
+    "name": "Solar.energy-business-review.com",
+    "rss_url": "http://solar.energy-business-review.com/rss"
   }
 ]
