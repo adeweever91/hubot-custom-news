@@ -1,8 +1,13 @@
 [
   {
-    "short_name": "Google",
-    "name": "Google News",
-    "rss_url": "https://news.google.com/?output=rss"
+    "short_name": "The Register DevOps",
+    "name": "Devops News",
+    "rss_url": "https://www.theregister.co.uk/devops/headlines.atom"
+  },
+  {
+    "short_name": "The Register Security",
+    "name": "Security News",
+    "rss_url": "https://www.theregister.co.uk/security/headlines.atom"
   },
   {
     "short_name": "Solar",
