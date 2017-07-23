@@ -1,13 +1,12 @@
 # Custom News 
 
-Retrieves news from media outlet RSS feeds.
+Retrieves news from custom RSS feeds.
 
-- [_Nashville Scene_](http://nashvillescene.com/)
-- [_The Tennessean_](http://tennessean.com/)
-- [WPLN](http://nashvillepublicradio.org/) (Nashville Public Radio)
-- [WSMV](http://www.wsmv.com/) (NBC)
-- [WKRN](http://wkrn.com/) (ABC)
-- [WTVF](http://www.newschannel5.com/) (CBS)
+- Devops.com
+- DZone.com
+- Threatpost.com
+- Solar.energy-business-review.com
+
 
 ## Installation
 
