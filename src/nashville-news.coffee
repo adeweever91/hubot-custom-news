@@ -36,7 +36,6 @@ module.exports = (robot) ->
     return new Promise (resolve, reject) ->
       robot.http(feed.rss_url).get() (err, res, body) ->
         if err
-	  msg.send err
           reject("Unable to retrieve feed for #{feed.name}. :cry:")
           return
 
