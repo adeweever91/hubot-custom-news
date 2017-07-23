@@ -1,16 +1,16 @@
 {
-  "name": "hubot-nashville-news",
-  "description": "Retrieves top local news from Nashville media outlet RSS feeds.",
-  "version": "1.0.3",
-  "author": "Stephen Yeargin <stephen.yeargin@gmail.com>",
+  "name": "hubot-custom-news",
+  "description": "Retrieves news media outlet RSS feeds.",
+  "version": "1.0.4",
+  "author": "",
   "license": "MIT",
-  "keywords": "hubot, hubot-scripts, news, nashville",
+  "keywords": "hubot, hubot-scripts, news",
   "repository": {
     "type": "git",
-    "url": "git://github.com/stephenyeargin/hubot-nashville-news.git"
+    "url": "git://github.com/adeweever91/hubot-custom-news.git"
   },
   "bugs": {
-    "url": "https://github.com/stephenyeargin/hubot-nashville-news/issues"
+    "url": "https://github.com/adeweever91/hubot-custom-news/issues"
   },
   "dependencies": {
     "cheerio": "^0.22.0",
