@@ -5,9 +5,9 @@
     "rss_url": "http://devops.com/feed/"
   },
   {
-    "short_name": "Wired.com",
-    "name": "Wired.com Security",
-    "rss_url": "https://www.wired.com/feed/category/security/latest/rss"
+    "short_name": "Hacker News",
+    "name": "Hackernews.com",
+    "rss_url": "http://feeds.feedburner.com/TheHackersNews"
   },
   {
     "short_name": "Burlington",
