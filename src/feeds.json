@@ -11,8 +11,8 @@
   },
   {
     "short_name": "Burlington",
-    "name": "WCAX.com Burlington",
-    "rss_url": "http://www.wcax.com/category/18197/localnews?clienttype=rss"
+    "name": "Burlington Free Press",
+    "rss_url": "http://rssfeeds.burlingtonfreepress.com/burlington/home&x=1"
   },
   {
     "short_name": "Solar",
