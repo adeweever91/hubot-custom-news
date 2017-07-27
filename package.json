@@ -1,7 +1,7 @@
 {
   "name": "hubot-custom-news",
   "description": "Retrieves news media outlet RSS feeds.",
-  "version": "1.1.29",
+  "version": "1.1.30",
   "author": "",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts, news",
